@@ -8,6 +8,9 @@ EncoderPro adalah tools enkripsi Python tingkat tinggi yang menggunakan teknik *
 * **Multi-Layer Encoding:** Kombinasi Base64 & Base85.
 * **Junk Code Generator:** Mengelabui decompiler dengan variabel acak.
 * **Custom Output:** Pilih nama file dan folder tujuan sesuka hati.
+<p align="center">
+  <img src="Ss.jpg" width="350" title="Tampilan AmarProject">
+</p>
 
 ## 📥 Instalasi
 ```bash
